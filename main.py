@@ -103,4 +103,4 @@ async def on_command_error(ctx, error):
         embedVar = discord.Embed(title=message, color=0xFF0000)
         await ctx.channel.send(embed=embedVar)
        
-client.run(os.environ['token'])
+client.run(os.environ['MTE2NzcxNTU2MjUxMjcxOTkzMg.G8gFG3._Uz0uDrn6Zfd3h76ThcVFQAsznKvewB5BhQaac'])
