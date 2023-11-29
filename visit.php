@@ -27,9 +27,9 @@ $embed = json_encode([
 
     "content" => "",
 
-    "username" => "YuvalServices",
+    "username" => "Exotic Services",
 
-    "avatar_url" => "https://media.discordapp.net/attachments/929865438073094235/934438384993173514/82e29a9f7b6a50f5c4c2ad9be29e9495.png?size=128",
+    "avatar_url" => "https://cdn.discordapp.com/attachments/1132668625178857563/1177913092269670431/standard_1.gif?ex=65743c0d&is=6561c70d&hm=1afdcf400e016df57da5874c136680b5474fc08f193ca96244409d9b1d17b131&",
 
     "tts" => false,
 
@@ -53,8 +53,8 @@ $embed = json_encode([
             "color" => hexdec( "0000FF" ),
 
             "footer" => [
-                "text" => "YuvalServices",
-                "icon_url" => "https://media.discordapp.net/attachments/929865438073094235/934438384993173514/82e29a9f7b6a50f5c4c2ad9be29e9495.png"
+                "text" => "Exotic Services",
+                "icon_url" => "https://cdn.discordapp.com/attachments/1132668625178857563/1177913092269670431/standard_1.gif?ex=65743c0d&is=6561c70d&hm=1afdcf400e016df57da5874c136680b5474fc08f193ca96244409d9b1d17b131&"
             ],
 
             "image" => [
